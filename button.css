@@ -4,8 +4,8 @@
     text-align: center;
     cursor: pointer;
     outline: none;
-    color: green;
-    background-color: aqua;
+    color: midnightblue;
+    background-color: yellow;
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px #999;
@@ -13,4 +13,5 @@
 }
 .button:hover{
     background-color: midnightblue;
-    
+    color:yellow;
+}
